@@ -1,0 +1,12 @@
+#fh5co-main h2{
+	background: whitesmoke;
+    margin: 0;
+    padding: 40px 0 0 0;
+    text-align: center;
+}
+.fh5co-cards {
+    padding: 2em 0;
+}
+.fh5co-card-body h3 {
+    padding: 10px 0 0 0;
+}

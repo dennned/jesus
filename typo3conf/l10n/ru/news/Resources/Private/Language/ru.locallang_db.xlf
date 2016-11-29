@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-06-02T11:48:25Z" product-name="news" target-language="ru">
+		<header/>
+		<body>
+			<trans-unit id="tx_news_domain_model_news.tabs.relations" xml:space="preserve" approved="yes">
+				<source>Relations</source>
+			<target state="translated">Связи</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.palettes.alternativeTitles" xml:space="preserve" approved="yes">
+				<source>Alternative Titles</source>
+			<target state="translated">Альтернативное название</target><note>88%</note></trans-unit>
+			<trans-unit id="tx_news_domain_model_news" xml:space="preserve" approved="yes">
+				<source>News</source>
+			<target state="translated">Новости</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.alternative_title" xml:space="preserve" approved="yes">
+				<source>Alternative title</source>
+			<target state="translated">Альтернативное название</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.teaser" xml:space="preserve" approved="yes">
+				<source>Teaser</source>
+			<target state="translated">Анонс</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.datetime" xml:space="preserve" approved="yes">
+				<source>Date &amp; Time</source>
+			<target state="translated">Дата и время</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.archive" xml:space="preserve" approved="yes">
+				<source>Archive</source>
+			<target state="translated">Архив</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.archive.placeholder" xml:space="preserve" approved="yes">
+				<source>Define when the news should be listed in the archive</source>
+			<target state="translated">Укажите, когда новости должны быть отправлены в архив</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.categories" xml:space="preserve" approved="yes">
+				<source>Categories</source>
+			<target state="translated">Категории</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.related" xml:space="preserve" approved="yes">
+				<source>Related News</source>
+			<target state="translated">Связанные новости</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.related_from" xml:space="preserve" approved="yes">
+				<source>Related News (from)</source>
+			<target state="translated">Связанные новости (из)</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.fal_related_files" xml:space="preserve" approved="yes">
+				<source>Related Files</source>
+			<target state="translated">Связанные файлы</target><note>100%</note></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.fal_related_files.add" xml:space="preserve" approved="yes">
+				<source>Add related file</source>
+			<target state="translated">Добавить связанный файл</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.related_links" xml:space="preserve" approved="yes">
+				<source>Related Links</source>
+			<target state="translated">Связанные ссылки</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.type.I.0" xml:space="preserve" approved="yes">
+				<source>News</source>
+			<target state="translated">Новости</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.type.I.1" xml:space="preserve" approved="yes">
+				<source>Internal link</source>
+			<target state="translated">Внутренняя страница</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.type.I.2" xml:space="preserve" approved="yes">
+				<source>External Page</source>
+			<target state="translated">Внешняя страница</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.fal_media" xml:space="preserve" approved="yes">
+				<source>Media file</source>
+			<target state="translated">Медиа файл</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.fal_media.add" xml:space="preserve" approved="yes">
+				<source>Add media file</source>
+			<target state="translated">Добавить медиа файл</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.istopnews" xml:space="preserve" approved="yes">
+				<source>Top news</source>
+			<target state="translated">Главные новости</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.content_elements" xml:space="preserve" approved="yes">
+				<source>Content elements</source>
+			<target state="translated">Элементы содержимого</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.tags" xml:space="preserve" approved="yes">
+				<source>Tags</source>
+			<target state="translated">Метки</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.tags.add" xml:space="preserve" approved="yes">
+				<source>Add a new tag</source>
+			<target state="translated">Добавить новую метку</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.tags.list" xml:space="preserve" approved="yes">
+				<source>List all tags</source>
+			<target state="translated">Список всех меток</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.tags.edit" xml:space="preserve" approved="yes">
+				<source>Edit tag</source>
+			<target state="translated">Править метку</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.keywords.placeholder" xml:space="preserve" approved="yes">
+				<source>Keyword1, keyword2, keyword3</source>
+			<target state="translated">Ключевое слово1,ключевое слово2,ключевое слово3</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_tag.seo.seo_title" xml:space="preserve">
+				<source><![CDATA[<title>-Tag]]></source>
+			<target></target></trans-unit>
+			<trans-unit id="tx_news_domain_model_tag.seo.seo_description" xml:space="preserve" approved="yes">
+				<source>Meta-Description</source>
+			<target state="translated">Мета-описание</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_tag.seo.seo_headline" xml:space="preserve" approved="yes">
+				<source>Headline (H1)</source>
+			<target state="translated">Заголовок (H1)</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_tag.seo.composeo_text" xml:space="preserve">
+				<source>SEO Text-Container</source>
+			<target></target></trans-unit>
+			<trans-unit id="tx_news_domain_model_category.tabs.seo" xml:space="preserve" approved="yes">
+				<source>SEO</source>
+			<target state="translated">SEO</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_category.image" xml:space="preserve" approved="yes">
+				<source>Image</source>
+			<target state="translated">Изображение</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_category.single_pid" xml:space="preserve" approved="yes">
+				<source>Single-view page for news from this category</source>
+			<target state="translated">Страница для отображения полного текста новостей из этой категории</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_category.shortcut" xml:space="preserve" approved="yes">
+				<source>News category shortcut</source>
+			<target state="translated">Ссылка на категорию новостей</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_category.seo.seo_title" xml:space="preserve">
+				<source><![CDATA[<title>-Tag]]></source>
+			<target></target></trans-unit>
+			<trans-unit id="tx_news_domain_model_category.seo.seo_description" xml:space="preserve" approved="yes">
+				<source>Meta-Description</source>
+			<target state="translated">Мета-описание</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_category.seo.seo_headline" xml:space="preserve" approved="yes">
+				<source>Headline (H1)</source>
+			<target state="translated">Заголовок (H1)</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_category.seo.seo_text" xml:space="preserve">
+				<source>SEO Text-Container</source>
+			<target></target></trans-unit>
+			<trans-unit id="tx_news_domain_model_link" xml:space="preserve" approved="yes">
+				<source>News Link Element</source>
+			<target state="translated">Элемент новости ссылка</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_link.title" xml:space="preserve" approved="yes">
+				<source>Title</source>
+			<target state="translated">Название</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_link.description" xml:space="preserve" approved="yes">
+				<source>Description</source>
+			<target state="translated">Описание</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_link.uri" xml:space="preserve" approved="yes">
+				<source>URL</source>
+			<target state="translated">URL</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_link.uri.placeholder" xml:space="preserve" approved="yes">
+				<source>www.domain.org</source>
+			<target state="translated">www.domain.org</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_tag.tabs.seo" xml:space="preserve" approved="yes">
+				<source>SEO</source>
+			<target state="translated">SEO</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_tag" xml:space="preserve" approved="yes">
+				<source>News Tag</source>
+			<target state="translated">Метка новости</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_tag.title" xml:space="preserve" approved="yes">
+				<source>Title</source>
+			<target state="translated">Название</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_media.showinpreview" xml:space="preserve" approved="no">
+				<source>Show in list views</source>
+			<target state="needs-translation">Показать в режиме предпросмотра</target></trans-unit>
+			<trans-unit id="tx_news_domain_model_news.path_segment" xml:space="preserve" approved="yes">
+				<source>Speaking URL path segment</source>
+			<target state="translated">Понятный сегмент пути URL</target></trans-unit>
+			<trans-unit id="be_user.tx_news_categorymounts" xml:space="preserve" approved="yes">
+				<source>News: Category restriction</source>
+			<target state="translated">Новости: Ограничения для Категории</target></trans-unit>
+		</body>
+	</file>
+</xliff>

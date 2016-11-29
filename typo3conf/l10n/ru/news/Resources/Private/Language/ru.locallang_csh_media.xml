@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index=".description">Запись медиа</label>
+			<label index=".details">Связь с записями медиа</label>
+			<label index="_.seeAlso">Смотрите также сайт http://www.news.com/</label>
+			<label index="hidden.description">Скрытые элементы ни при каких условиях не выводятся на сайте.</label>
+			<label index="caption.description">Заголовок медиа элемента</label>
+			<label index="title.description">Дополнительная информация для тега title.</label>
+			<label index="alt.description">Дополнительная информация для тега alt.</label>
+			<label index="type.description">Тип медиа элемента. Это может быть (по умолчанию): изображения, видео и аудио, код HTML.</label>
+			<label index="showinpreview.description">Если отмечено, то текущий медиа элемент будет также доступен в режиме списка.</label>
+			<label index="video.description">Определите URL к видео или аудио ресурсу. Это может быть относительный (например, fileadmin/video.flv) либо абсолютный путь (например, к видео на youtube).</label>
+			<label index="media.description">Выберете само изображение.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-09-08T03:26:45Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="frame" approved="yes">
+				<source>Frame name:</source>
+				<target state="translated">Название фрейма:</target>
+			</trans-unit>
+			<trans-unit id="frame_help" approved="yes">
+				<source>Enter the name of the frame to be used as target</source>
+				<target state="translated">Введите название целевого фрейма</target>
+			</trans-unit>
+			<trans-unit id="Select some text" approved="yes">
+				<source>You need to select some text before creating a link</source>
+				<target state="translated">Вы должны выделить текст перед тем, как создавать ссылку</target>
+			</trans-unit>
+			<trans-unit id="URL" approved="yes">
+				<source>URL</source>
+				<target state="translated">URL</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

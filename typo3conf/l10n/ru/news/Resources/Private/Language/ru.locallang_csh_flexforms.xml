@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="switchableControllerActions.description">Настройка режима вывода</label>
+			<label index="switchableControllerActions.details">В Списке выводятся все статьи новостей. Последние используют временные рамки, остальное должно быть понятно из названия.</label>
+			<label index="settings.orderBy.description">Определите поле для упроядочивания</label>
+			<label index="settings.orderDirection.description">Определите порядок сортировки</label>
+			<label index="settings.dateField.description">Выбор поля, используемого для построения меню дат.</label>
+			<label index="settings.categories.description">Выберете категорию из которой будут показаны элементы новостей.</label>
+			<label index="settings.categoryConjunction.description">Определите, как будут действовать выбранные категории.</label>
+			<label index="settings.includeSubCategories.description">Включая также и все подкатегории выбранных категорий.</label>
+			<label index="settings.categoryConjunction.details">&amp;quot;Не важно&amp;quot;: ограничения на категории не наложены. &amp;quot;Показать статьи из выбранных категорий (ИЛИ)&amp;quot;: выводятся записи новостей, относящиеся хотя бы к одной из выбранных категорий. &amp;quot;Показать статьи из выбранных категорий (И)&amp;quot;: выводятся записи новостей, относящиеся сразу ко всем выбранным категориям. &amp;quot;НЕ показывать...&amp;quot; имеет действие, обратное к описанным выше.</label>
+			<label index="settings.archiveRestriction.description">Выберете между: 1) отображением всех записей новостей, 2) отображением лишь активных записей новостей, 3) отображением лишь архивных записей новостей. Дата архивации определяется для каждой записи новостей. Если дата для помещения в архив не определена, запись новости не архивируется.</label>
+			<label index="settings.timeRestriction.description">Настройка временных рамок. Это может быть либо целое число секунд, например, 86400 означает 1 день (60 сек. * 60 мин. * 24 часа). Либо строка наподобие &amp;quot;-4 days&amp;quot; или &amp;quot;-3 hours&amp;quot;. Приставка - очень важна!</label>
+			<label index="settings.timeRestrictionHigh.description">Установите временное ограничение. Это может быть целое число секунд, например, 86400, то есть — один день (60 * 60 * 24), или строка, вроде "-4 days" или "-3 hours". Приставка "-" важна! Будут показаны лишь статьи новостей в пределах заданного времени.</label>
+			<label index="settings.topNewsRestriction.description">Запись новости можно обозначить как главную новость. При этом можно выбрать что выводить: все новости, только главные или только не главные.</label>
+			<label index="settings.singleNews.description">Отображение полного текста выбранной записи новостей.</label>
+			<label index="settings.previewHiddenRecords.description">Если установлено, скрытые записи также выводятся. Полезно для предварительного просмотра остающихся скрытыми записями (по недосмотру и т. п.).</label>
+			<label index="settings.startingpoint.description">Определение страниц/папок, содержащих записи новостей</label>
+			<label index="settings.recursive.description">Выберете уровень рекурсии относительно начальной точки.</label>
+			<label index="settings.detailPid.description">Выберете страницу, на которой выводится полный текст статей.</label>
+			<label index="settings.backPid.description">Выберете страницу для возвращения после просмотра статьи целиком.</label>
+			<label index="settings.listPid.description">Выберете страницу, на которой выводится список новостей.</label>
+			<label index="settings.limit.description">Настройка максимального количества выводимых записей новостей</label>
+			<label index="settings.offset.description">Установите смещение с начала. Например, 3 – значит что первые 2 записи не будут обработаны.</label>
+			<label index="settings.topNewsFirst.description">Если отмечено: указанный порядок сортировки не важен, в начале выводятся главные новости.</label>
+			<label index="settings.disableOverrideDemand.description">Если отмечено, на выводимые текущим дополнением данные не будут влиять настройки переопределения, это может быть, например, категория, установленная в параметрах URL.</label>
+			<label index="settings.tags.description">Фильтр по заданным меткам (тегам).</label>
+			<label index="settings.media.maxWidth.description">Максимальная ширина медиа элементов (изображений, видео и т. п.)</label>
+			<label index="settings.media.maxHeight.description">Максимальная высота медиа элементов (изображений, видео и т. п.)</label>
+			<label index="settings.cropMaxCharacters.description">Настройка длины анонса в символах. Обычно анонс обрезается в списках новостей.</label>
+			<label index="settings.templateLayout.description">Выбор специфичного шаблона для отображения записей новостей.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

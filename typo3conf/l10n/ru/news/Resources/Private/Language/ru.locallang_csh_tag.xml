@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index=".description">Запись метки</label>
+			<label index=".details">Записи новостей могут быть помечены этими записями</label>
+			<label index="_.seeAlso">Смотрите также сайт http://www.news.com/</label>
+			<label index="hidden.description">Скрытые элементы ни при каких условиях не выводятся на сайте.</label>
+			<label index="title.description">Название метки.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

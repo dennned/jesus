@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="tx_news_domain_model_news.tabs.relations">Связи</label>
+			<label index="tx_news_domain_model_news.palettes.alternativeTitles">Альтернативное название</label>
+			<label index="tx_news_domain_model_news">Новости</label>
+			<label index="tx_news_domain_model_news.alternative_title">Альтернативное название</label>
+			<label index="tx_news_domain_model_news.teaser">Анонс</label>
+			<label index="tx_news_domain_model_news.datetime">Дата и время</label>
+			<label index="tx_news_domain_model_news.archive">Архив</label>
+			<label index="tx_news_domain_model_news.archive.placeholder">Укажите, когда новости должны быть отправлены в архив</label>
+			<label index="tx_news_domain_model_news.categories">Категории</label>
+			<label index="tx_news_domain_model_news.related">Связанные новости</label>
+			<label index="tx_news_domain_model_news.related_from">Связанные новости (из)</label>
+			<label index="tx_news_domain_model_news.fal_related_files">Связанные файлы</label>
+			<label index="tx_news_domain_model_news.fal_related_files.add">Добавить связанный файл</label>
+			<label index="tx_news_domain_model_news.related_links">Связанные ссылки</label>
+			<label index="tx_news_domain_model_news.type.I.0">Новости</label>
+			<label index="tx_news_domain_model_news.type.I.1">Внутренняя страница</label>
+			<label index="tx_news_domain_model_news.type.I.2">Внешняя страница</label>
+			<label index="tx_news_domain_model_news.fal_media">Медиа файл</label>
+			<label index="tx_news_domain_model_news.fal_media.add">Добавить медиа файл</label>
+			<label index="tx_news_domain_model_news.istopnews">Главные новости</label>
+			<label index="tx_news_domain_model_news.content_elements">Элементы содержимого</label>
+			<label index="tx_news_domain_model_news.tags">Метки</label>
+			<label index="tx_news_domain_model_news.tags.add">Добавить новую метку</label>
+			<label index="tx_news_domain_model_news.tags.list">Список всех меток</label>
+			<label index="tx_news_domain_model_news.tags.edit">Править метку</label>
+			<label index="tx_news_domain_model_news.keywords.placeholder">Ключевое слово1,ключевое слово2,ключевое слово3</label>
+			<label index="tx_news_domain_model_tag.seo.seo_title"/>
+			<label index="tx_news_domain_model_tag.seo.seo_description">Мета-описание</label>
+			<label index="tx_news_domain_model_tag.seo.seo_headline">Заголовок (H1)</label>
+			<label index="tx_news_domain_model_tag.seo.composeo_text"/>
+			<label index="tx_news_domain_model_category.tabs.seo">SEO</label>
+			<label index="tx_news_domain_model_category.image">Изображение</label>
+			<label index="tx_news_domain_model_category.single_pid">Страница для отображения полного текста новостей из этой категории</label>
+			<label index="tx_news_domain_model_category.shortcut">Ссылка на категорию новостей</label>
+			<label index="tx_news_domain_model_category.seo.seo_title"/>
+			<label index="tx_news_domain_model_category.seo.seo_description">Мета-описание</label>
+			<label index="tx_news_domain_model_category.seo.seo_headline">Заголовок (H1)</label>
+			<label index="tx_news_domain_model_category.seo.seo_text"/>
+			<label index="tx_news_domain_model_link">Элемент новости ссылка</label>
+			<label index="tx_news_domain_model_link.title">Название</label>
+			<label index="tx_news_domain_model_link.description">Описание</label>
+			<label index="tx_news_domain_model_link.uri">URL</label>
+			<label index="tx_news_domain_model_link.uri.placeholder">www.domain.org</label>
+			<label index="tx_news_domain_model_tag.tabs.seo">SEO</label>
+			<label index="tx_news_domain_model_tag">Метка новости</label>
+			<label index="tx_news_domain_model_tag.title">Название</label>
+			<label index="tx_news_domain_model_media.showinpreview">Показать в режиме предпросмотра</label>
+			<label index="tx_news_domain_model_news.path_segment">Понятный сегмент пути URL</label>
+			<label index="be_user.tx_news_categorymounts">Новости: Ограничения для Категории</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

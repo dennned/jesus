@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="search-text">Найдено %1$s результатов для &amp;quot;%2$s&amp;quot;.</label>
+			<label index="search-start">Начать поиск</label>
+			<label index="search-noresult">Новостей не найдено.</label>
+			<label index="search-subject">Текст</label>
+			<label index="search-minimumDate">Начальная дата</label>
+			<label index="search-maximumDate">Конечная дата</label>
+			<label index="more-link">Далее</label>
+			<label index="back-link">Назад</label>
+			<label index="related-news">Связанные новости</label>
+			<label index="related-files">Связанные файлы</label>
+			<label index="related-links">Связанные ссылки</label>
+			<label index="author">автор %s</label>
+			<label index="author_simple">автор</label>
+			<label index="paginate_overall">Страница %s из %s.</label>
+			<label index="paginate_next">Далее</label>
+			<label index="paginate_previous">Назад</label>
+			<label index="categories">Категории</label>
+			<label index="tags">Метки</label>
+			<label index="entry">статья</label>
+			<label index="entries">статей</label>
+			<label index="month.01">Январь</label>
+			<label index="month.02">Февраль</label>
+			<label index="month.03">Март</label>
+			<label index="month.04">Апрель</label>
+			<label index="month.05">Май</label>
+			<label index="month.06">Июнь</label>
+			<label index="month.07">Июль</label>
+			<label index="month.08">Август</label>
+			<label index="month.09">Сентябрь</label>
+			<label index="month.10">Октябрь</label>
+			<label index="month.11">Ноябрь</label>
+			<label index="month.12">Декабрь</label>
+			<label index="day.1">Понедельник</label>
+			<label index="day.2">Вторник</label>
+			<label index="day.3">Среда</label>
+			<label index="day.4">Четверг</label>
+			<label index="day.5">Пятница</label>
+			<label index="day.6">Суббота</label>
+			<label index="day.7">Воскресенье</label>
+			<label index="dateFormat">%d.%m.%Y</label>
+			<label index="list_nonewsfound">Новости отсутствуют.</label>
+			<label index="list_nocategoriesfound">Категории недоступны.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

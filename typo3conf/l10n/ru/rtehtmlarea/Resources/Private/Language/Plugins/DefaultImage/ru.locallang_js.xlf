@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-09-08T03:26:46Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Bottom:" approved="yes">
+				<source>Bottom:</source>
+				<target state="translated">Снизу:</target>
+			</trans-unit>
+			<trans-unit id="Bottom padding" approved="yes">
+				<source>Bottom padding</source>
+				<target state="translated">Отступ снизу</target>
+			</trans-unit>
+			<trans-unit id="image_url" approved="yes">
+				<source>Image URL</source>
+				<target state="translated">URL изображения</target>
+			</trans-unit>
+			<trans-unit id="image_url_invalid" approved="yes">
+				<source>The url could not be accessed or is not a valid image.</source>
+				<target state="translated">Невозможно получить доступ к url или изображение с ошибкой.</target>
+			</trans-unit>
+			<trans-unit id="Left padding" approved="yes">
+				<source>Left padding</source>
+				<target state="translated">Отступ слева</target>
+			</trans-unit>
+			<trans-unit id="Right:" approved="yes">
+				<source>Right:</source>
+				<target state="translated">Справа:</target>
+			</trans-unit>
+			<trans-unit id="Right padding" approved="yes">
+				<source>Right padding</source>
+				<target state="translated">Отступ справа</target>
+			</trans-unit>
+			<trans-unit id="Top:" approved="yes">
+				<source>Top:</source>
+				<target state="translated">Сверху:</target>
+			</trans-unit>
+			<trans-unit id="Top padding" approved="yes">
+				<source>Top padding</source>
+				<target state="translated">Отступ сверху</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

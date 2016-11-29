@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-06-02T11:48:02Z" product-name="news" target-language="ru">
+		<header/>
+		<body>
+			<trans-unit id=".description" xml:space="preserve" approved="yes">
+				<source>Media record</source>
+			<target state="translated">Запись медиа</target></trans-unit>
+			<trans-unit id=".details" xml:space="preserve" approved="yes">
+				<source>Relation to media records</source>
+			<target state="translated">Связь с записями медиа</target></trans-unit>
+			<trans-unit id="_.seeAlso" xml:space="preserve" approved="yes">
+				<source>See also the website http://www.news.com/</source>
+			<target state="translated">Смотрите также сайт http://www.news.com/</target></trans-unit>
+			<trans-unit id="hidden.description" xml:space="preserve" approved="yes">
+				<source>Hidden elements are never shown in the frontend.</source>
+			<target state="translated">Скрытые элементы ни при каких условиях не выводятся на сайте.</target></trans-unit>
+			<trans-unit id="caption.description" xml:space="preserve" approved="yes">
+				<source>Caption of the media element</source>
+			<target state="translated">Заголовок медиа элемента</target></trans-unit>
+			<trans-unit id="title.description" xml:space="preserve" approved="yes">
+				<source>Additional information for the title tag.</source>
+			<target state="translated">Дополнительная информация для тега title.</target></trans-unit>
+			<trans-unit id="alt.description" xml:space="preserve" approved="yes">
+				<source>Additional information for the alt tag.</source>
+			<target state="translated">Дополнительная информация для тега alt.</target></trans-unit>
+			<trans-unit id="type.description" xml:space="preserve" approved="yes">
+				<source>Type of media element. This can be (by default): Images, Video &amp; Audio, Plain Html.</source>
+			<target state="translated">Тип медиа элемента. Это может быть (по умолчанию): изображения, видео и аудио, код HTML.</target></trans-unit>
+			<trans-unit id="showinpreview.description" xml:space="preserve" approved="yes">
+				<source>If checked, this media element is also available in the list view.</source>
+			<target state="translated">Если отмечено, то текущий медиа элемент будет также доступен в режиме списка.</target></trans-unit>
+			<trans-unit id="video.description" xml:space="preserve" approved="yes">
+				<source>Define the URL to the video or audio resource. This can be either a relative path (e.g. fileadmin/video.flv) or an absolute path (e.g. to a youtube video).</source>
+			<target state="translated">Определите URL к видео или аудио ресурсу. Это может быть относительный (например, fileadmin/video.flv) либо абсолютный путь (например, к видео на youtube).</target></trans-unit>
+			<trans-unit id="media.description" xml:space="preserve" approved="yes">
+				<source>Select the image itself.</source>
+			<target state="translated">Выберете само изображение.</target></trans-unit>
+		</body>
+	</file>
+</xliff>

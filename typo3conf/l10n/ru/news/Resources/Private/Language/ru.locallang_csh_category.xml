@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index=".description">Запись категории</label>
+			<label index=".details">Категория для записи новостей.</label>
+			<label index="_.seeAlso">Смотрите также сайт http://www.news.com/</label>
+			<label index="sys_language_uid.description">Язык категории</label>
+			<label index="hidden.description">Скрытые категории ни при каких условиях не выводятся на сайте.</label>
+			<label index="title.description">Название категории</label>
+			<label index="parentcategory.description">Выберете родительскую категорию для текущей записи для построения дерева категорий.</label>
+			<label index="image.description">Возможный значок для категории.</label>
+			<label index="description.description">Возможное описание для категории.</label>
+			<label index="single_pid.description">Выберете страницу, которая используется для вывода полного текста статей из текущей категории. Эта настройка может быть переопределена в соответствующих настройках дополнения.</label>
+			<label index="shortcut.description">Возможная ссылка категории.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

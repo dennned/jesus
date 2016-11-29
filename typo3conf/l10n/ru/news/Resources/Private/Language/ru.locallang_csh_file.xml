@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index=".description">Запись файла</label>
+			<label index=".details">Связь с файлами</label>
+			<label index="_.seeAlso">Смотрите также сайт http://www.news.com/</label>
+			<label index="hidden.description">Скрытые элементы ни при каких условиях не выводятся на сайте.</label>
+			<label index="title.description">Возможное название для выбранного файла.</label>
+			<label index="description.description">Возможное описание для выбранного файла.</label>
+			<label index="file.description">Любой (допустимый) файл.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

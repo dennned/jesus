@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index=".description">Запись новостей</label>
+			<label index=".details">Универсальная новостная система.</label>
+			<label index="sys_language_uid.description">Язык записи новостей.</label>
+			<label index="starttime.description">Определите дату, начиная с которой будет выведена запись новостей.</label>
+			<label index="endtime.description">Дата, после которой статья новостей должна быть скрыта.</label>
+			<label index="fe_group.description">Выберете группы пользователей, способных просматривать записи новостей.</label>
+			<label index="editlock.description">Если отмечено, то статья новостей может быть исправлена лишь администраторами.</label>
+			<label index="hidden.description">Скрытые записи ни при каких условиях не выводятся на сайте.</label>
+			<label index="title.description">Заголовок новости</label>
+			<label index="alternative_title.description">Альтернативный заголовок (title) используется в качестве заголовка окна / вкладки браузера</label>
+			<label index="teaser.description">Знайте, что это может быть обрезано.</label>
+			<label index="type.description">Определите тип, который может быть либо обычной статьей новостей, ссылкой на внутреннюю или внешнюю страницы.</label>
+			<label index="istopnews.description">Записи главных новостей могут получить специфичные шаблон, сортировку...</label>
+			<label index="author.description">Автор статьи новостей</label>
+			<label index="author_email.description">Email адрес автора</label>
+			<label index="datetime.description">Дата статьи новостей</label>
+			<label index="archive.description">Дата архивации. Дата необходимая для помещения новости в список архивных.</label>
+			<label index="bodytext.description">Основное содержимое записи новостей</label>
+			<label index="categories.description">Выберете категорию для этой записи.</label>
+			<label index="tags.description">Определите и выберете метки, подходящие статье.</label>
+			<label index="content_elements.description">Для создания сложных статей можно использовать элементы содержимого.</label>
+			<label index="keywords.description">Определите ключевые слова, полезные для поисковой оптимизации.</label>
+			<label index="description.description">Укажите описание, используемое для поисковой оптимизации.</label>
+			<label index="related.description">Выбор записей связанных новостей.</label>
+			<label index="related_from.description">Показать новости, в которых текущая статья новостей указана как связанная.</label>
+			<label index="related_links.description">Определение связанных ссылок на внешние и внутренние страницы.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>
